@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/profile_detail"
+        android:title="welcome"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/support"
+        android:title="contact us"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/installment"
+        android:title="my installments"
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/change_password"
+        android:title="password"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/logout"
+        android:title="logout"
+        app:showAsAction="never"/>
+
+
+</menu>

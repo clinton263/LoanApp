@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoanApp</string>
+    <string name="control_number">control number</string>
+    <string name="installment_date">installment date</string>
+    <string name="payment_method_gepg">payment method (GePG)</string>
+    <string name="installed_amount">installed amount</string>
+    <string name="valid">valid</string>
+</resources>
